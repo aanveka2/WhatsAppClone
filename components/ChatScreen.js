@@ -100,7 +100,7 @@ function ChatScreen({chat, messages}){
 
                     ):(
                         <p>Loading Last Active...</p>
-                    )};
+                    )}
                 </HeaderInformations >
                 <HeaderIcons>
                     <IconButton>
